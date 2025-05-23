@@ -1,1 +1,5 @@
-Hai hello
+Scenario : Facebook Login
+
+Feature : login to facebook 
+Given : Launch Brouser
+And : enter the credentials
